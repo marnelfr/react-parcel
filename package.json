@@ -1,0 +1,15 @@
+{
+  "name": "react-parcel",
+  "version": "1.0.0",
+  "description": "learning react using parcel",
+  "main": "index.js",
+  "author": "marnelfr<gmlginolias@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
